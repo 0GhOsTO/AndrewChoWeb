@@ -5,7 +5,6 @@ Andrew Cho's website created by three.js and blender
 
 ## Table of Contents
 1. [Preview](#Preview)
-1. [Wireframes](#Wireframes)
 
 ## Overview
 ### Description
@@ -18,6 +17,5 @@ This is Andrew Cho's website project created using three.js and the blender.
 ## Product Spec
 ### 1. Preview
 
-**Preview**
-<img src="https://github.com/0GhOsTO/AndrewChoWeb/blob/main/Preview.png" width=200>
+<img src="https://github.com/0GhOsTO/AndrewChoWeb/blob/main/Preview.png" width=800>
 * This is the basic preview of the website and will be updated later as soon as I get back on to the work. 
